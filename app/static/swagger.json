@@ -246,15 +246,13 @@
                     "status":{
                         "type": "string"
                     },
-                    "created_at": {
-                        "type": "string"
-                    },
-                    "age": {
-                        "type": "integer"
-                    },
                     "assigned_to": {
                         "type": "string"
+                    },
+                    "created_at": {
+                        "type": "string"
                     }
+
                 },
                 "required": [
                     "title",
